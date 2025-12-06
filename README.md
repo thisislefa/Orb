@@ -5,7 +5,7 @@ Orb is a sophisticated testimonial presentation component featuring a responsive
 
 # Live Deployment
 
-[View Live Demo](https://thisislfea.github.io/Orb
+[View Live Demo](https://thisislfea.github.io/Orb)
 
 ## Technical Architecture
 
@@ -401,3 +401,4 @@ Orb is released under MIT License. The component can be integrated into commerci
 **Maintainer**: [Lefa](https://github.com/thisislefa)  
 **Technology**: CSS Grid with Glassmorphism Effects  
 **Status**: Production Ready with Comprehensive Browser Support
+
