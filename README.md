@@ -3,6 +3,8 @@
 ## Overview
 Orb is a sophisticated testimonial presentation component featuring a responsive 3-column grid layout with glassmorphism effects and integrated statistics. Designed for showcasing client success stories with visual impact and data-driven credibility.
 
+<img width="1606" height="876" alt="lefajmofokeng github io_Orb_" src="https://github.com/user-attachments/assets/1975fafe-ba91-4dda-836b-0a5c114fd0df" />
+
 # Live Deployment
 
 [View Live Demo](https://lefajmofokeng.github.io/Orb)
@@ -401,6 +403,7 @@ Orb is released under MIT License. The component can be integrated into commerci
 **Maintainer**: [Lefa](https://github.com/lefajmofokeng)  
 **Technology**: CSS Grid with Glassmorphism Effects  
 **Status**: Production Ready with Comprehensive Browser Support
+
 
 
 
